@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=npwsk&theme=ayu-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npwsk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Overview](https://raw.githubusercontent.com/npwsk/profile-stats/master/generated/overview.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
+
+[![Languages](https://raw.githubusercontent.com/npwsk/profile-stats/master/generated/languages.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
+
